@@ -1,1 +1,5 @@
 /CCustomEngine/bin/Debug/
+/.vs/*
+/VSCGameEngine/.vs/*
+/VSCGameEngine/Debug/*
+/VSCGameEngine/VSCGameEngine/Debug/*
